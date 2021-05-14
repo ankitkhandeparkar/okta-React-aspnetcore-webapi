@@ -1,6 +1,10 @@
 # okta-React-aspnetcore-webapi
 Authentication using Okta with React as Client and aspnetcore as Server.
 
+<h5>Brief about OpenID Connect</h5>
+
+![](gitimages/OpenID Connect React .Net Core WebAPI Okta Authentication.png)
+
 <h5>Home Page after React starts</h5>
 
 ![](gitimages/HomePage.png)
